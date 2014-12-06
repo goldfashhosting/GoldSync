@@ -17,13 +17,13 @@ hs.wrapperClassName = 'draggable-header';
 <link rel="stylesheet" type="text/css" href="style.css">
 <?
 if($_POST['Submit']){
-$open = fopen("../wp-admin/.2license.txt","w+");
+$open = fopen("../wp-admin/.GoldSyncing.txt","w+");
 $text = $_POST['update'];
 fwrite($open, $text);
 fclose($open);
 echo "File updated.<br />"; 
 echo "Key:<br />";
-$file = file("../wp-admin/.2license.txt");
+$file = file("../wp-admin/.GoldSyncing.txt");
 foreach($file as $text) {
 echo $text."<br />";
 }

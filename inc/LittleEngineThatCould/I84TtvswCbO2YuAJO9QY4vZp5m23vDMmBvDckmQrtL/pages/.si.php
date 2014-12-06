@@ -16,13 +16,13 @@ hs.wrapperClassName = 'draggable-header';
         <legend>Update License Key</legend>
 <?
 if($_POST['Submit']){
-$open = fopen("../wp-admin/.1license.txt","w+");
+$open = fopen("../wp-admin/.GoldSYNC.txt","w+");
 $text = $_POST['update'];
 fwrite($open, $text);
 fclose($open);
 echo "File updated.<br />"; 
 echo "Key:<br />";
-$file = file("../wp-admin/.1license.txt");
+$file = file("../wp-admin/.GoldSYNC.txt");
 foreach($file as $text) {
 echo $text."<br />";
 }
