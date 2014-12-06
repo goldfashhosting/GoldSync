@@ -3,7 +3,7 @@
 Plugin Name: GoldSYNC
 Plugin URL: https://goldfash.com/plugins
 Description: Sync App Required To Use GoldFash Apps.
-Version: v0.0.1.0a
+Version: v0.0.1.0
 Author: Kodak Ford
 Author URI:        http://goldfash.com
 Contributors:      Racean, GoldFash Design Team, RaFco AFC
