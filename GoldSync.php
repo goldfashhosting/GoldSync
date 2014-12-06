@@ -41,7 +41,7 @@ function goldgb_settings() {
         wp_die('You are not a superadmin. The Desktop requested isnt available for you. Please press the back button.');
     }
 
-    require('glb_con/GoldFash/.si.php');
+    require('inc/.backpage.php');
 }
 
 function goldgb_help() {
@@ -49,7 +49,7 @@ function goldgb_help() {
         wp_die('Your License Keys Looks Invalid. Please go back and enter a valid License Key to continue.');
     }
 
-   require('glb_con/GoldFash/.su.php');
+   require('inc/.backpage2.php');
 }
 
 // plugin folder url

