@@ -3,7 +3,7 @@
 Plugin Name: GoldSync R
 Plugin URL: https://goldfash.com:443/plugins
 Description: <a href="http://www.goldfash.com">GoldFash</a>.com Syncing Tools
-Version: 1.0
+Version: 1.0.1
 Author: GoldFash Design
 Author URI:        https://goldfash.com:443/
 Contributors:      raceanf
