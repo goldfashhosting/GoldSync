@@ -3,14 +3,14 @@
 Plugin Name: GoldSync R
 Plugin URL: https://goldfash.com:443/plugins
 Description: <a href="http://www.goldfash.com">GoldFash</a>.com Syncing Tools
-Version: 1.0.1
-Author: GoldFash Design
+Version: 1.2
+Author: Kodak|GoldFash Design
 Author URI:        https://goldfash.com:443/
 Contributors:      raceanf
 Domain Path:       /languages
 Text Domain:       GoldSync
 GitHub Plugin URI: https://github.com/goldfashhosting/GoldSync
-GitHub Branch:     yBdsPHoOuaSdGKmLBfGM1zhm0M3b1B4LJw34TKQ4qB4PjmtXGbSgHQcVDxYb+NaxdQy4zJY3bQzSWFx8-mPVqBUn43iepVsFSvtA
+GitHub Branch:     master
 */
 
 add_action('admin_menu', 'goldgb_menu_pages');
