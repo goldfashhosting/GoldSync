@@ -10,7 +10,7 @@ Contributors:      raceanf
 Domain Path:       /languages
 Text Domain:       GoldSync
 GitHub Plugin URI: https://github.com/goldfashhosting/GoldSync
-GitHub Branch:     yBdsPHoOuaSdGKmLBfGM1zhm0M3b1B4LJw34TKQ4qB4PjmtXGbSgHQcVDxYb+NaxdQy4zJY3bQzSWFx8-mPVqBUn43iepVsFSvtA
+GitHub Branch:     master
 */
 
 add_action('admin_menu', 'goldgb_menu_pages');
