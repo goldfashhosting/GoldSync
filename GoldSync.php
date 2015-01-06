@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: GoldSync R
+Plugin Name:A GoldSync R
 Plugin URL: https://goldfash.com:443/plugins
 Description: <a href="http://www.goldfash.com">GoldFash</a>.com Syncing Tools
-Version: 1.2
+Version: 2.1
 Author: Kodak|GoldFash Design
 Author URI:        https://goldfash.com:443/
 Contributors:      raceanf
